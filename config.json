@@ -1,6 +1,6 @@
 { 
    "version":"2.0.3.0",
-   "url":"https://github.com/NuqieNoila/FileStorage/releases/download/2.0.4/KLN.VPN.Client.msi",
+   "url":"https://github.com/NuqieNoila/FileStorage/releases/download/2.0.3/SKMT.VPN.2.0.3.zip",
    "mandatory":{ 
       "value":true,
       "mode":1
