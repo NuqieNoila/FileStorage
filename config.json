@@ -1,5 +1,5 @@
 { 
-   "version":"2.0.4.0",
+   "version":"2.0.3.0",
    "url":"https://github.com/NuqieNoila/FileStorage/releases/download/2.0.4/KLN.VPN.Client.msi",
    "mandatory":{ 
       "value":true,
