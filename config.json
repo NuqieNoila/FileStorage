@@ -1,6 +1,6 @@
 { 
-   "version":"2.0.4.0",
-   "url":"https://github.com/NuqieNoila/FileStorage/releases/download/2.0.4/SKMT.VPN.2.0.4.zip",
+   "version":"2.0.5.0",
+   "url":"https://github.com/NuqieNoila/FileStorage/releases/download/2.0.5/SKMT.VPN.2.0.5.zip",
    "mandatory":{ 
       "value":true,
       "mode":1
